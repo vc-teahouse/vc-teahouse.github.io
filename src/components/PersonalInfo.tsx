@@ -41,7 +41,7 @@ export const GithubLink: FC = () => {
     return (
         <a
             className={style.githubLink}
-            href="https://github.com/StreakingMan/solvable-sheep-game"
+            href="https://github.com/luyanci/solvable-sheep-game"
             target="_blank"
             rel="noreferrer"
         >
@@ -54,7 +54,7 @@ export const BiliBiliLink: FC = () => {
     return (
         <a
             className={style.bilibiliLink}
-            href="https://space.bilibili.com/18424564"
+            href="https://space.bilibili.com/25592511"
             target="_blank"
             rel="noreferrer"
         >
