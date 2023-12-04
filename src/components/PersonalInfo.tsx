@@ -45,7 +45,7 @@ export const GithubLink: FC = () => {
             target="_blank"
             rel="noreferrer"
         >
-            @StreakingMan
+            @luyanci
         </a>
     );
 };
@@ -54,11 +54,11 @@ export const BiliBiliLink: FC = () => {
     return (
         <a
             className={style.bilibiliLink}
-            href="https://space.bilibili.com/25592511"
+            href="https://space.bilibili.com/282873551"
             target="_blank"
             rel="noreferrer"
         >
-            @streaking_man
+            @YC酱luyancib
         </a>
     );
 };
