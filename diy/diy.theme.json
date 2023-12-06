@@ -2,7 +2,7 @@
     "title": "梨了个梨（未完成）",
     "desc": "@丸梨丸梨 版的羊了个羊 by luyanci",
     "bgm": "/sound-disco.mp3",
-    "dark": true,
+    "dark": false,
     "background": "",
     "backgroundBlur": false,
     "backgroundColor": "#8dac85",
