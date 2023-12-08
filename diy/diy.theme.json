@@ -7,7 +7,7 @@
     "backgroundBlur": false,
     "backgroundColor": "#8dac85",
     "pure": true,
-    "maxLevel": 50,
+    "maxLevel": 500,
     "icons": [
         {
             "name": "1",
