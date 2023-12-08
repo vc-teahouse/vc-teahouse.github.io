@@ -1,8 +1,8 @@
 {
-    "title": "梨了个梨（未完成）",
+    "title": "梨了个梨",
     "desc": "@丸梨丸梨 版的羊了个羊 by luyanci",
     "bgm": "/sound-disco.mp3",
-    "dark": false,
+    "dark": true,
     "background": "",
     "backgroundBlur": false,
     "backgroundColor": "#8dac85",
@@ -73,15 +73,15 @@
     "sounds": [
         {
             "name": "sound-undo",
-            "src": "/sound-undo.mp3"
+            "src": "/undo.mp3"
         },
         {
             "name": "sound-shift",
-            "src": "/sound-shift.mp3"
+            "src": "/jump.mp3"
         },
         {
             "name": "sound-wash",
-            "src": "/sound-wash.mp3"
+            "src": "/wash.mp3"
         },
         {
             "name": "button-click",
@@ -89,7 +89,7 @@
         },
         {
             "name": "triple",
-            "src": "/sound-triple.mp3"
+            "src": "/combo.mp3"
         }
     ],
     "operateSoundMap": {
