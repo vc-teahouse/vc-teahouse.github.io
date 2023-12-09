@@ -1,1 +1,0 @@
-import{a as s,j as o}from"./index.59bedb2e.js";const r="_pyro_1hbpe_1",t="_before_1hbpe_8",a="_after_1hbpe_9",_="_bang_1hbpe_1",n="_gravity_1hbpe_1",i="_position_1hbpe_1",e={pyro:r,before:t,after:a,bang:_,gravity:n,position:i},b=()=>s("div",{className:e.pyro,children:[o("div",{className:e.before}),o("div",{className:e.after})]});export{b as default};
