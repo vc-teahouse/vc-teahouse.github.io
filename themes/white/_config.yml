@@ -42,7 +42,7 @@ archive_img_mode:
 # icon
 icon: /image/favicon.ico #标签页图标
 #  header
-site_name: Luyancib
+site_name: VC茶屋
 site_description: 这里会存放一些东西 #The default meta description for all the meta descriptions
 #Add description property to any page to change the meta description
 menu:
@@ -63,7 +63,7 @@ search:
 
 # 自我介绍
 intro:
-  title: YC的博客网站
+  title: VC茶屋
   sub: '这里会存放一些东西，[点击这里](/p)来查看内容！' # markdown语法
   avator: https://cdn.jsdelivr.net/gh/fushaolei/img/20200524104925.jpg #头像 暂时还没用到
   author: luyanci #所有文章的默认作者
