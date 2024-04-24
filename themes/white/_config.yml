@@ -144,7 +144,7 @@ pagination:
 ############## 其他 ##############
 
 # 页脚
-footer: 本博客为[YC酱luyancib](https://space.bilibili.com/282873551)的个人博客 # markdown语法
+footer: 本网站为[YC酱luyancib](https://space.bilibili.com/282873551)为VC茶屋搭建的网站 # markdown语法
 
 #有分类时是否开启menu分类页和自定义名字
 menu_categories:
